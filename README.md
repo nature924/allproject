@@ -48,26 +48,38 @@
 | 038  | [springboot客户关系管理系统(crm)(源码+数据库+11000字论文)](https://github.com/nature924/No38Customer-Relationship-Management-System-CRM-) | https://github.com/nature924/No38Customer-Relationship-Management-System-CRM-   |
 | 039  | [springboot毕业设计系统(源码+数据库+10000字论文)](https://github.com/nature924/No39Graduation-Design-System) |  https://github.com/nature924/No39Graduation-Design-System  |
 | 040  | [springboot医疗挂号管理系统(源码+数据库+15000字论文)](https://github.com/nature924/No40Medical-Registration-Management-System) |   https://github.com/nature924/No40Medical-Registration-Management-System |
-| 041  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)]() |    |
-| 042  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)]() |    |
-| 043  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)]() |    |
-| 044  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)]() |    |
-| 045  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)]() |    |
-| 046  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)]() |    |
-| 047  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)]() |    |
-| 048  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)]() |    |
-| 049  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)]() |    |
-| 050  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)]() |    |
-| 051  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)]() |    |
-| 052  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)]() |    |
-| 053  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)]() |    |
-| 054  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)]() |    |
-| 055  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)]() |    |
-| 056  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)]() |    |
-| 057  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)]() |    |
-| 058  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)]() |    |
-| 059  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)]() |    |
-| 060  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)]() |    |
+| 041  | [springboot在线考试系统(源码+数据库+11000字论文)](https://github.com/nature924/No41Online-examination-system) | https://github.com/nature924/No41Online-examination-system   |
+| 042  | [springboot物流管理系统(源码+数据库+15000字论文)](https://github.com/nature924/No42logistics-management-system) | https://github.com/nature924/No42logistics-management-system   |
+| 043  | [springboot精简博客系统(源码+数据库+10000字论文)](https://github.com/nature924/No43Simplify-the-blog-system) |  https://github.com/nature924/No43Simplify-the-blog-system  |
+| 044  | [springboot酒店管理系统(源码+数据库+12000字论文)](https://github.com/nature924/No44hotel-management-system) | https://github.com/nature924/No44hotel-management-system   |
+| 045  | [springboot学生网上选课系统(源码+数据库+15000字论文)](https://github.com/nature924/No45Student-Online-Course-Selection-System) |  https://github.com/nature924/No45Student-Online-Course-Selection-System  |
+| 046  | [springboot经方药食两用服务平台(源码+数据库+12000字论文)](https://github.com/nature924/No46A-dual-purpose-service-platform-for-prescription-medicine-and-food) |  https://github.com/nature924/No46A-dual-purpose-service-platform-for-prescription-medicine-and-food  |
+| 047  | [springboot企业员工薪酬关系系统(源码+数据库+15000字论文)](https://github.com/nature924/No47Enterprise-Employee-Compensation-Relationship-System) |   https://github.com/nature924/No47Enterprise-Employee-Compensation-Relationship-System |
+| 048  | [springboot在线远程考试系统(源码+数据库+15000字论文)](https://github.com/nature924/No48Online-remote-examination-system) | https://github.com/nature924/No48Online-remote-examination-system   |
+| 049  | [springboot名城小区物业管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No49Mingcheng-Community-Property-Management-System) |   https://github.com/nature924/No49Mingcheng-Community-Property-Management-System |
+| 050  | [springboot智慧生活商城系统(源码+数据库+12000字论文)](https://github.com/nature924/No50Smart-Life-Mall-System) |  https://github.com/nature924/No50Smart-Life-Mall-System  |
+| 051  | [springboot在线互动学习网站(源码+数据库+15000字论文)](https://github.com/nature924/No51Online-interactive-learning-website) |  https://github.com/nature924/No51Online-interactive-learning-website  |
+| 052  | [springboot毕业论文管理系统(源码+数据库+15000字论文)](https://github.com/nature924/No52Graduation-Thesis-Management-System) | https://github.com/nature924/No52Graduation-Thesis-Management-System   |
+| 053  | [springboot餐饮管理系统(源码+数据库+15000字论文)](https://github.com/nature924/No53Restaurant-Management-System) | https://github.com/nature924/No53Restaurant-Management-System   |
+| 054  | [springboot流浪动物救助网站(源码+数据库+15000字论文)](https://github.com/nature924/No54Stray-animal-rescue-website) |  https://github.com/nature924/No54Stray-animal-rescue-website  |
+| 055  | [springboot车辆管理系统(源码+数据库+15000字论文)](https://github.com/nature924/No55vehicle-management-system) |  https://github.com/nature924/No55vehicle-management-system  |
+| 056  | [springboot电影院购票系统(源码+数据库+15000字论文)](https://github.com/nature924/No56Cinema-ticketing-system) |    |
+| 057  | [springboot毕业就业信息管理系统(源码+数据库+15000字论文)]() |    |
+| 058  | [springboot靓车汽车销售网站(源码+数据库+15000字论文)](https://github.com/nature924/No57Graduation-Employment-Information-Management-System) |  https://github.com/nature924/No57Graduation-Employment-Information-Management-System  |
+| 059  | [springboot影院订票系统(源码+数据库+15000字论文)](https://github.com/nature924/No58Cinema-booking-system) |  https://github.com/nature924/No58Cinema-booking-system  |
+| 060  | [springboot旅游网站站(源码+数据库+10000字论文)](https://github.com/nature924/No59travel-website) |  https://github.com/nature924/No59travel-website  |
+| 061  | [springboot图书商城管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No60Book-Mall-Management-System) | https://github.com/nature924/No60Book-Mall-Management-System   |
+| 062  | [springboot药店管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No61Pharmacy-Management-System) | https://github.com/nature924/No61Pharmacy-Management-System   |
+| 063  | [springboot校园外卖服务系统(源码+数据库+10000字论文)](https://github.com/nature924/No62Campus-food-delivery-service-system) |  https://github.com/nature924/No62Campus-food-delivery-service-system  |
+| 064  | [springboot家政服务平台(源码+数据库+10000字论文)](https://github.com/nature924/No63Home-service-platform) | https://github.com/nature924/No63Home-service-platform   |
+| 065  | [springboot线上医院挂号系统(源码+数据库+10000字论文)](https://github.com/nature924/No64Online-hospital-registration-system) |  https://github.com/nature924/No64Online-hospital-registration-system  |
+| 066  | [springboot民宿管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No65Homestay-Management-System) |  https://github.com/nature924/No65Homestay-Management-System  |
+| 067  | [springboot精品水果线上销售网站(源码+数据库+10000字论文)](https://github.com/nature924/No66Premium-Fruit-Online-Sales-Website) |  https://github.com/nature924/No66Premium-Fruit-Online-Sales-Website  |
+| 068  | [springboot环保网站(源码+数据库+10000字论文)](https://github.com/nature924/No67Environmental-Protection-Website) |https://github.com/nature924/No67Environmental-Protection-Website    |
+| 069  | [springboot大学生选修选课系统(源码+数据库+10000字论文)](https://github.com/nature924/No68College-Students-Elective-Course-Selection-System) | https://github.com/nature924/No69College-Student-Loan-Management-System   |
+| 070  | [springboot大学生助学贷款管理系统(源码+数据库)](https://github.com/nature924/No69College-Student-Loan-Management-System) | https://github.com/nature924/No68College-Students-Elective-Course-Selection-System   |
+| 071  | [springboot高校毕业生离校管理系统(源码+数据库)](https://github.com/nature924/No70Management-System-for-College-Graduates-Leaving-School) |  https://github.com/nature924/No70Management-System-for-College-Graduates-Leaving-School  |
+
 
 
 
