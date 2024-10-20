@@ -78,7 +78,58 @@
 | 068  | [springboot大学生选修选课系统(源码+数据库+10000字论文)](https://github.com/nature924/No68College-Students-Elective-Course-Selection-System) |https://github.com/nature924/No68College-Students-Elective-Course-Selection-System  |
 | 069  | [springboot大学生助学贷款管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No69College-Student-Loan-Management-System) |https://github.com/nature924/No69College-Student-Loan-Management-System   |
 | 070  | [springboot高校毕业生离校管理系统(源码+数据库)](https://github.com/nature924/No70Management-System-for-College-Graduates-Leaving-School) | https://github.com/nature924/No70Management-System-for-College-Graduates-Leaving-School  |
-
+| 071  | [springboot物品租赁系统(源码+数据库+10000字论文)](https://github.com/nature924/No71Item-Rental-System) | https://github.com/nature924/No71Item-Rental-System  |
+| 072  | [springboot敬老院管理系统(源码+数据库)](https://github.com/nature924/No72Nursing-Home-Management-System) |  https://github.com/nature924/No72Nursing-Home-Management-System |
+| 073  | [springboot高校实习信息发布网站(源码+数据库+10000字论文)](https://github.com/nature924/No73University-Internship-Information-Release-Website) |  https://github.com/nature924/No73University-Internship-Information-Release-Website |
+| 074  | [springboot铁路订票管理系统](https://github.com/nature924/No74Railway-ticket-booking-management-system) | https://github.com/nature924/No74Railway-ticket-booking-management-system  |
+| 075  | [springboot智能家居销量数据分析](https://github.com/nature924/No75Analysis-of-sales-data-for-smart-homes) |  https://github.com/nature924/No75Analysis-of-sales-data-for-smart-homes |
+| 076  | [springboot黔醉酒业白酒销售系统(源码+数据库+10000字论文)](https://github.com/nature924/No76Baijiu-Sales-System-of-Qianzui-Liquor-Industry) |  https://github.com/nature924/No76Baijiu-Sales-System-of-Qianzui-Liquor-Industry |
+| 077  | [springboot私人诊所管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No77Private-Clinic-Management-System) | https://github.com/nature924/No77Private-Clinic-Management-System  |
+| 078  | [springboot健美操评分系统(源码+数据库+10000字论文)](https://github.com/nature924/No78Aerobics-Scoring-System) | https://github.com/nature924/No78Aerobics-Scoring-System  |
+| 089  | [springboot科研管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No79Research-Management-System) | https://github.com/nature924/No79Research-Management-System  |
+| 080  | [springboot流浪猫狗救助救援网站(源码+数据库+10000字论文)](https://github.com/nature924/No80Stray-cat-and-dog-rescue-website) |https://github.com/nature924/No80Stray-cat-and-dog-rescue-website   |
+| 081  | [springboot企业车辆管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No80Enterprise-Vehicle-Management-System) |  https://github.com/nature924/No80Enterprise-Vehicle-Management-System |
+| 082  | [springboot汽车服务管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No82Automotive-Service-Management-System) |   https://github.com/nature924/No82Automotive-Service-Management-System|
+| 083  | [springboot汽车租赁管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No83Car-Rental-Management-System) | https://github.com/nature924/No83Car-Rental-Management-System  |
+| 084  | [springboot人事管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No84personnel-management-system) | https://github.com/nature924/No84personnel-management-system  |
+| 085  | [springboot社区团购管理系统](https://github.com/nature924/No85Community-group-buying-management-system) | https://github.com/nature924/No85Community-group-buying-management-system  |
+| 086  | [springboot宿舍管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No86Dormitory-Management-System) | https://github.com/nature924/No86Dormitory-Management-System  |
+| 087  | [springboot同城上门喂遛宠物系统(源码+数据库+10000字论文)](https://github.com/nature924/No87Same-city-doorstep-pet-feeding-and-walking-system) | https://github.com/nature924/No87Same-city-doorstep-pet-feeding-and-walking-system  |
+| 088  | [springboot图书管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No88Library-Management-System) | https://github.com/nature924/No88Library-Management-System  |
+| 089  | [springboot无人智慧超市管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No89Unmanned-Smart-Supermarket-Management-System) |  https://github.com/nature924/No89Unmanned-Smart-Supermarket-Management-System |
+| 090  | [springboot武理多媒体信息共享平台](https://github.com/nature924/No90Wuli-Multimedia-Information-Sharing-Platform) |https://github.com/nature924/No90Wuli-Multimedia-Information-Sharing-Platform   |
+| 091  | [springboot物业管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No91Property-Management-System) | https://github.com/nature924/No91Property-Management-System  |
+| 092  | [springboot校车调度管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No92School-Bus-Dispatch-Management-System) |  https://github.com/nature924/No92School-Bus-Dispatch-Management-System |
+| 093  | [springboot校园便利平台(源码+数据库+10000字论文)](https://github.com/nature924/No93Campus-Convenience-Platform) |  https://github.com/nature924/No93Campus-Convenience-Platform |
+| 094  | [springboot校园一卡通(源码+数据库+10000字论文)](https://github.com/nature924/No94campus-card) | https://github.com/nature924/No94campus-card  |
+| 095  | [springboot学院个人信息管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No95College-Personal-Information-Management-System) |  https://github.com/nature924/No95College-Personal-Information-Management-System |
+| 096  | [springboot养老院管理系统(源码+数据库)](https://github.com/nature924/No96Nursing-Home-Management-System) | https://github.com/nature924/No96Nursing-Home-Management-System  |
+| 097  | [springboot医院病历管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No97Hospital-Medical-Record-Management-System) |https://github.com/nature924/No97Hospital-Medical-Record-Management-System   |
+| 098  | [springboot医院信息管理系统(源码+数据库)](https://github.com/nature924/No98Hospital-Information-Management-System) |https://github.com/nature924/No98Hospital-Information-Management-System   |
+| 099  | [springboot在线小说阅读平台](https://github.com/nature924/No99Online-novel-reading-platform) |  https://github.com/nature924/No99Online-novel-reading-platform |
+| 0100  | [springboot智慧养老中心管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No100Smart-Elderly-Care-Center-Management-System) |  https://github.com/nature924/No100Smart-Elderly-Care-Center-Management-System |
+| 0101  | [springboot智能菜谱推荐系统(源码+数据库+10000字论文)](https://github.com/nature924/No101Intelligent-recipe-recommendation-system) |  https://github.com/nature924/No101Intelligent-recipe-recommendation-system |
+| 0102  | [springboot智能停车计费系统(源码+数据库+10000字论文)](https://github.com/nature924/No102Intelligent-parking-billing-system) |  https://github.com/nature924/No102Intelligent-parking-billing-system |
+| 0103  | [springboot爱心商城系统(源码+数据库+10000字论文)](https://github.com/nature924/No103Love-Mall-System) |  https://github.com/nature924/No103Love-Mall-System |
+| 0104  | [springboot本庄村果园预售系统(源码+数据库+10000字论文)](https://github.com/nature924/No104Pre-sale-system-for-orchards-in-Benzhuang-Village) | https://github.com/nature924/No104Pre-sale-system-for-orchards-in-Benzhuang-Village  |
+| 0105  | [springboot笔记记录分享网站(源码+数据库+10000字论文)](https://github.com/nature924/No105Note-taking-and-sharing-website) | https://github.com/nature924/No105Note-taking-and-sharing-website  |
+| 0106  | [springboot产业园区智慧公寓管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No106Smart-Apartment-Management-System-for-Industrial-Parks) |  https://github.com/nature924/No106Smart-Apartment-Management-System-for-Industrial-Parks |
+| 0107  | [springboot宠物咖啡馆平台(源码+数据库+10000字论文)](https://github.com/nature924/No107Pet-Cafe-Platform) |  https://github.com/nature924/No107Pet-Cafe-Platform |
+| 0108  | [springboot船舶监造系统(源码+数据库+10000字论文)](https://github.com/nature924/No108Ship-supervision-system) | https://github.com/nature924/No108Ship-supervision-system  |
+| 0109  | [springboot车险理赔信息管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No109Car-Insurance-Claims-Information-Management-System) |  https://github.com/nature924/No109Car-Insurance-Claims-Information-Management-System |
+| 0110  | [springboot船舶维保管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No110Ship-Maintenance-Management-System) | https://github.com/nature924/No110Ship-Maintenance-Management-System  |
+| 0111  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0112  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0113  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0114  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0115  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0116  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0117  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0118  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0119  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0120  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0121  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0122  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
 
 
 
