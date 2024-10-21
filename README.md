@@ -118,18 +118,27 @@
 | 0108  | [springboot船舶监造系统(源码+数据库+10000字论文)](https://github.com/nature924/No108Ship-supervision-system) | https://github.com/nature924/No108Ship-supervision-system  |
 | 0109  | [springboot车险理赔信息管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No109Car-Insurance-Claims-Information-Management-System) |  https://github.com/nature924/No109Car-Insurance-Claims-Information-Management-System |
 | 0110  | [springboot船舶维保管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No110Ship-Maintenance-Management-System) | https://github.com/nature924/No110Ship-Maintenance-Management-System  |
-| 0111  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0112  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0113  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0114  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0115  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0116  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0117  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0118  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0119  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0120  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0121  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0122  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0111  | [springboot船运物流管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No111Shipping-Logistics-Management-System) | https://github.com/nature924/No111Shipping-Logistics-Management-System  |
+| 0112  | [springboot大健康养老公寓管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No112Big-Health-Retirement-Apartment-Management-System) |  https://github.com/nature924/No112Big-Health-Retirement-Apartment-Management-System |
+| 0113  | [springboot大学生创新创业项目管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No113College-Student-Innovation-and-Entrepreneurship-Project-Management-System) | https://github.com/nature924/No113College-Student-Innovation-and-Entrepreneurship-Project-Management-System  |
+| 0114  | [springboot大学生创新创业训练项目管理系统](https://github.com/nature924/No114Management-System-for-College-Students-Innovation-and-Entrepreneurship-Training-Projects) | https://github.com/nature924/No114Management-System-for-College-Students-Innovation-and-Entrepreneurship-Training-Projects  |
+| 0115  | [springboot大学生计算机基础网络教学系统(源码+数据库+10000字论文)](https://github.com/nature924/No115Computer-Fundamentals-Network-Teaching-System-for-College-Students) | https://github.com/nature924/No115Computer-Fundamentals-Network-Teaching-System-for-College-Students  |
+| 0116  | [springboot大学生就业服务平台(源码+数据库+10000字论文)](https://github.com/nature924/No116College-Student-Employment-Service-Platform) | https://github.com/nature924/No116College-Student-Employment-Service-Platform  |
+| 0117  | [springboot大学生就业招聘系统(源码+数据库+10000字论文)](https://github.com/nature924/No117College-Student-Employment-Recruitment-System) |   https://github.com/nature924/No117College-Student-Employment-Recruitment-System|
+| 0118  | [springboot大学生平时成绩量化管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No118Quantitative-Management-System-for-College-Students-Regular-Grades) | https://github.com/nature924/No118Quantitative-Management-System-for-College-Students-Regular-Grades  |
+| 0119  | [springboot大学生入学审核系统(源码+数据库+10000字论文)](https://github.com/nature924/No119College-Student-Admission-Review-System) |https://github.com/nature924/No119College-Student-Admission-Review-System   |
+| 0120  | [springboot大学生在线租房平台(源码+数据库+10000字论文)](https://github.com/nature924/No120Online-rental-platform-for-college-students) | https://github.com/nature924/No120Online-rental-platform-for-college-students  |
+| 0121  | [springboot大学生租房平台(源码+数据库+10000字论文)](https://github.com/nature924/No121College-student-rental-platform) | https://github.com/nature924/No121College-student-rental-platform  |
+| 0122  | [springboot大学新生报到系统](https://github.com/nature924/No122University-Freshman-Registration-System) | https://github.com/nature924/No122University-Freshman-Registration-System  |
+| 0123  | [springboot当代中国获奖的知名作家信息管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No123Information-management-system-for-renowned-contemporary-Chinese-award-winning-writers) |https://github.com/nature924/No123Information-management-system-for-renowned-contemporary-Chinese-award-winning-writers   |
+| 0124  | [springboot高校危化试剂仓储系统(源码+数据库+10000字论文)](https://github.com/nature924/No124University-hazardous-chemical-reagent-storage-system) | https://github.com/nature924/No124University-hazardous-chemical-reagent-storage-system  |
+| 0125  | [springboot党员学习交流平台(源码+数据库+10000字论文)](https://github.com/nature924/No125Party-member-learning-and-exchange-platform) | https://github.com/nature924/No125Party-member-learning-and-exchange-platform  |
+| 0126  | [springboot档案管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No126Archive-Management-System) | https://github.com/nature924/No126Archive-Management-System  |
+| 0127  | [springboot儿童性教育网站](https://github.com/nature924/No127Children-s-Sex-Education-Website) |   https://github.com/nature924/No127Children-s-Sex-Education-Website|
+| 0128  | [springboot二手物品交易(源码+数据库+10000字论文)](https://github.com/nature924/No128Second-hand-item-trading) |  https://github.com/nature924/No128Second-hand-item-trading |
+| 0129  | [springboot高校物品捐赠管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No129University-Donation-Management-System) | https://github.com/nature924/No129University-Donation-Management-System  |
+| 0130  | [springboot房产销售系统(源码+数据库+10000字论文)](https://github.com/nature924/No130Real-estate-sales-system) | https://github.com/nature924/No130Real-estate-sales-system  |
+| 0131  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
 
 
 
