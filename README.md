@@ -142,22 +142,42 @@
 | 0132  | [springboot房屋租赁系统(源码+数据库+10000字论文)](https://github.com/nature924/No132House-rental-system) | https://github.com/nature924/No132House-rental-system  |
 | 0133  | [springboot高校心理教育辅导(源码+数据库+10000字论文)](https://github.com/nature924/No133College-psychological-education-counseling) | https://github.com/nature924/No133College-psychological-education-counseling  |
 | 0134  | [springboot服装生产管理(源码+数据库+10000字论文)](https://github.com/nature924/No134Clothing-production-management) | https://github.com/nature924/No134Clothing-production-management  |
-| 0135  | [springboot福泰轴承股份有限公司进销存系统(源码+数据库+10000字论文)]() |   |
-| 0136  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No135Futai-Bearing-Co.-Ltd.-Inventory-System) | https://github.com/nature924/No135Futai-Bearing-Co.-Ltd.-Inventory-System  |
-| 0137  | [springboot甘肃非物质文化网站(源码+数据库+10000字论文)](https://github.com/nature924/No136Gansu-Intangible-Cultural-Website) | https://github.com/nature924/No136Gansu-Intangible-Cultural-Website  |
-| 0138  | [springboot甘肃旅游服务平台(源码+数据库+10000字论文)](https://github.com/nature924/No137Gansu-Tourism-Service-Platform) |https://github.com/nature924/No137Gansu-Tourism-Service-Platform   |
-| 0139  | [springboot高校毕业与学位资格审核系统](https://github.com/nature924/No138University-Graduation-and-Degree-Qualification-Review-System) | https://github.com/nature924/No138University-Graduation-and-Degree-Qualification-Review-System  |
-| 0140  | [springboot高校汉服租赁网站(源码+数据库+10000字论文)](https://github.com/nature924/No139University-Hanfu-Rental-Website) |  https://github.com/nature924/No139University-Hanfu-Rental-Website |
-| 0141  | [springboot高校教师教研信息填报系统(源码+数据库+10000字论文)](https://github.com/nature924/No140University-Teacher-Teaching-and-Research-Information-Filling-System) | https://github.com/nature924/No140University-Teacher-Teaching-and-Research-Information-Filling-System  |
-| 0142  | [springboot高校竞赛管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No141University-Competition-Management-System) |https://github.com/nature924/No141University-Competition-Management-System   |
-| 0143  | [springboot高校科研信息管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No142University-Research-Information-Management-System) | https://github.com/nature924/No142University-Research-Information-Management-System  |
-| 0144  | [springboot高校实习管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No143College-Internship-Management-System) | https://github.com/nature924/No143College-Internship-Management-System  |
-| 0145  | [springboot高校宣讲会管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No144University-Lecture-Management-System) | https://github.com/nature924/No144University-Lecture-Management-System  |
-| 0146  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0147  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0148  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0149  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0150  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0135  | [springboot福泰轴承股份有限公司进销存系统(源码+数据库+10000字论文)](https://github.com/nature924/No135Futai-Bearing-Co.-Ltd.-Inventory-System) | https://github.com/nature924/No135Futai-Bearing-Co.-Ltd.-Inventory-System  |
+| 0136  | [springboot甘肃非物质文化网站(源码+数据库+10000字论文)](https://github.com/nature924/No136Gansu-Intangible-Cultural-Website) | https://github.com/nature924/No136Gansu-Intangible-Cultural-Website  |
+| 0137  | [springboot甘肃旅游服务平台(源码+数据库+10000字论文)](https://github.com/nature924/No137Gansu-Tourism-Service-Platform) |https://github.com/nature924/No137Gansu-Tourism-Service-Platform   |
+| 0138  | [springboot高校毕业与学位资格审核系统](https://github.com/nature924/No138University-Graduation-and-Degree-Qualification-Review-System) | https://github.com/nature924/No138University-Graduation-and-Degree-Qualification-Review-System  |
+| 0139  | [springboot高校汉服租赁网站(源码+数据库+10000字论文)](https://github.com/nature924/No139University-Hanfu-Rental-Website) |  https://github.com/nature924/No139University-Hanfu-Rental-Website |
+| 0140  | [springboot高校教师教研信息填报系统(源码+数据库+10000字论文)](https://github.com/nature924/No140University-Teacher-Teaching-and-Research-Information-Filling-System) | https://github.com/nature924/No140University-Teacher-Teaching-and-Research-Information-Filling-System  |
+| 0141  | [springboot高校竞赛管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No141University-Competition-Management-System) |https://github.com/nature924/No141University-Competition-Management-System   |
+| 0142  | [springboot高校科研信息管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No142University-Research-Information-Management-System) | https://github.com/nature924/No142University-Research-Information-Management-System  |
+| 0143  | [springboot高校实习管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No143College-Internship-Management-System) | https://github.com/nature924/No143College-Internship-Management-System  |
+| 0144  | [springboot高校宣讲会管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No144University-Lecture-Management-System) | https://github.com/nature924/No144University-Lecture-Management-System  |
+| 0145  | [springboot高校学科竞赛平台(源码+数据库+10000字论文)](https://github.com/nature924/No145University-Subject-Competition-Platform) | https://github.com/nature924/No145University-Subject-Competition-Platform  |
+| 0146  | [springboot高校学生饮食推荐系统](https://github.com/nature924/No146College-Student-Dietary-Recommendation-System) | https://github.com/nature924/No146College-Student-Dietary-Recommendation-System  |
+| 0147  | [springboot个性化电影推荐系统](https://github.com/nature924/No147Personalized-movie-recommendation-system) | https://github.com/nature924/No147Personalized-movie-recommendation-system  |
+| 0148  | [springboot工资信息管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No148Salary-Information-Management-System) |  https://github.com/nature924/No148Salary-Information-Management-System |
+| 0149  | [springboot工作量统计系统(源码+数据库+10000字论文)](https://github.com/nature924/No149Workload-Statistics-System) | https://github.com/nature924/No149Workload-Statistics-System  |
+| 0150  | [springboot公司资产网站(源码+数据库+10000字论文)](https://github.com/nature924/No150Company-Asset-Website) | https://github.com/nature924/No150Company-Asset-Website  |
+| 0151  | [springboot供应商管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No151Supplier-Management-System) |  https://github.com/nature924/No151Supplier-Management-System |
+| 0152  | [springboot购物推荐网站(源码+数据库+10000字论文)](https://github.com/nature924/No152Shopping-recommendation-website) | https://github.com/nature924/No152Shopping-recommendation-website  |
+| 0153  | [springboot古典舞在线交流平台(源码+数据库+10000字论文)](https://github.com/nature924/No153Classical-Dance-Online-Communication-Platform) |   https://github.com/nature924/No153Classical-Dance-Online-Communication-Platform|
+| 0154  | [springboot桂林旅游景点导游平台(源码+数据库+10000字论文)](https://github.com/nature924/No154Guilin-Tourist-Attraction-Tour-Guide-Platform) |  https://github.com/nature924/No154Guilin-Tourist-Attraction-Tour-Guide-Platform |
+| 0155  | [springboot果蔬作物疾病防治系统(源码+数据库+10000字论文)](https://github.com/nature924/No155Fruit-and-vegetable-crop-disease-prevention-and-control-system) | https://github.com/nature924/No155Fruit-and-vegetable-crop-disease-prevention-and-control-system  |
+| 0156  | [springboot海滨体育馆管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No156Seaside-Sports-Center-Management-System) | https://github.com/nature924/No156Seaside-Sports-Center-Management-System  |
+| 0157  | [springboot航班进出港管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No157Flight-Entry-and-Exit-Management-System) |https://github.com/nature924/No157Flight-Entry-and-Exit-Management-System   |
+| 0158  | [springboot滑雪场管理系统(源码+数据库+10000字论文)](https://github.com/new) |  https://github.com/new |
+| 0159  | [springboot画师约稿平台](https://github.com/nature924/No159Artist-Submission-Platform) | https://github.com/nature924/No159Artist-Submission-Platform  |
+| 0160  | [springboot图书管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No160Library-Management-System) | https://github.com/nature924/No160Library-Management-System  |
+| 0161  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0162  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0163  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0164  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0165  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0166  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0167  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0168  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0169  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0170  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
 
 
 
