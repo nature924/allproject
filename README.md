@@ -168,16 +168,25 @@
 | 0158  | [springboot滑雪场管理系统(源码+数据库+10000字论文)](https://github.com/new) |  https://github.com/new |
 | 0159  | [springboot画师约稿平台](https://github.com/nature924/No159Artist-Submission-Platform) | https://github.com/nature924/No159Artist-Submission-Platform  |
 | 0160  | [springboot图书管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No160Library-Management-System) | https://github.com/nature924/No160Library-Management-System  |
-| 0161  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0162  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0163  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0164  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0165  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0166  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0167  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0168  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0169  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
-| 0170  | [springboot高校毕业生离校管理系统(源码+数据库+10000字论文)]() |   |
+| 0161  | [springboot医疗病历交互系统(源码+数据库+10000字论文)](https://github.com/nature924/No161Medical-record-interaction-system) |  https://github.com/nature924/No161Medical-record-interaction-system |
+| 0162  | [springboot冷链物流系统(源码+数据库+10000字论文)](https://github.com/nature924/No162Cold-chain-logistics-system) | https://github.com/nature924/No162Cold-chain-logistics-system  |
+| 0163  | [springboot高校固定资产管理系统研究与实现(源码+数据库+10000字论文)](https://github.com/nature924/No163Research-and-Implementation-of-Fixed-Asset-Management-System-in-Universities) |  https://github.com/nature924/No163Research-and-Implementation-of-Fixed-Asset-Management-System-in-Universities |
+| 0164  | [springboot在线英语阅读分级平台(源码+数据库+10000字论文)](https://github.com/nature924/No164Online-English-Reading-Grading-Platform) | https://github.com/nature924/No164Online-English-Reading-Grading-Platform  |
+| 0165  | [springboot项目申报系统(源码+数据库+10000字论文)](https://github.com/nature924/No165Project-application-system) |https://github.com/nature924/No165Project-application-system   |
+| 0166  | [springboot大学生考勤系统(源码+数据库+10000字论文)](https://github.com/nature924/No166College-Student-Attendance-System) | https://github.com/nature924/No166College-Student-Attendance-System  |
+| 0167  | [springboot大创管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No167Da-Chuang-Management-System) | https://github.com/nature924/No167Da-Chuang-Management-System  |
+| 0168  | [springboot考试系统](https://github.com/nature924/No168examination-system) |  https://github.com/nature924/No168examination-system |
+| 0169  | [springboot流浪动物救助平台(源码+数据库+10000字论文)](https://github.com/nature924/No169Stray-animal-rescue-platform) |  https://github.com/nature924/No169Stray-animal-rescue-platform |
+| 0170  | [springboot美食信息推荐系统(源码+数据库+10000字论文)](https://github.com/nature924/No170Food-Information-Recommendation-System) | https://github.com/nature924/No170Food-Information-Recommendation-System  |
+| 0171  | [springboot免税商品优选购物商城(源码+数据库+10000字论文)](https://github.com/nature924/No171Preferred-duty-free-shopping-mall) | https://github.com/nature924/No171Preferred-duty-free-shopping-mall  |
+| 0172  | [springboot物资综合管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No172Integrated-Material-Management-System) | https://github.com/nature924/No172Integrated-Material-Management-System  |
+| 0173  | [springboot小区物业管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No173Residential-property-management-system) |  https://github.com/nature924/No173Residential-property-management-system |综合小区管理系统高校毕业生离校管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No174Integrated-community-management-system) |  https://github.com/nature924/No174Integrated-community-management-system |
+| 0175  | [springboot国产动漫网站(源码+数据库+10000字论文)](https://github.com/nature924/No175Domestic-anime-website) | https://github.com/nature924/No175Domestic-anime-website  |
+| 0176  | [springboot企业项目管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No176Enterprise-Project-Management-System) |  https://github.com/nature924/No176Enterprise-Project-Management-System |
+| 0177  | [springboot线上历史馆藏系统(源码+数据库+10000字论文)](https://github.com/nature924/No177Online-Historical-Collection-System) | https://github.com/nature924/No177Online-Historical-Collection-System  |
+| 0178  | [springboot考试信息报名系统(源码+数据库+10000字论文)](https://github.com/nature924/No178Exam-Information-Registration-System_) | https://github.com/nature924/No178Exam-Information-Registration-System_  |
+| 0179  | [springboot动漫商城管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No179Anime-Mall-Management-System) | https://github.com/nature924/No179Anime-Mall-Management-System  |
+| 0180  | [springboot自习室管理和预约系统(源码+数据库+10000字论文)](https://github.com/nature924/No180Self-study-room-management-and-reservation-system) |  https://github.com/nature924/No180Self-study-room-management-and-reservation-system |
 
 
 
