@@ -256,7 +256,7 @@
 | 0247  | [springboot农业设备租赁系统(源码+数据库+10000字论文)](https://github.com/nature924/No248Agricultural-equipment-leasing-system) | https://github.com/nature924/No248Agricultural-equipment-leasing-system|
 | 0248  | [springboot篮球联盟管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No248Basketball-League-Management-System) | https://github.com/nature924/No248Basketball-League-Management-System|
 | 0249  | [springbootpc端仿淘宝系统(源码+数据库+10000字论文)](https://github.com/nature924/No249PC-imitation-of-Taobao-system) |https://github.com/nature924/No249PC-imitation-of-Taobao-system |
-| 0250  | [springboot框架的电影订票系统(源码+数据库+10000字论文)]() | |
+| 0250  | [springboot电子产品销售系统(源码+数据库+10000字论文)](https://github.com/nature924/No250Electronic-product-sales-system) | https://github.com/nature924/No250Electronic-product-sales-system|
 
 
 
