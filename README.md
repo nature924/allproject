@@ -317,26 +317,26 @@
 | 0308  | [springboot学生宿舍管理系统](https://github.com/nature924/No308Student-Dormitory-Management-System ) |https://github.com/nature924/No308Student-Dormitory-Management-System |
 | 0309  | [springboot学生心理咨询评估系统(源码+数据库+10000字论文)](https://github.com/nature924/No309Student-Psychological-Counseling-and-Evaluation-System ) |https://github.com/nature924/No309Student-Psychological-Counseling-and-Evaluation-System |
 | 0310  | [springboot医院管理系统]( https://github.com/nature924/No310Hospital-Management-System) | https://github.com/nature924/No310Hospital-Management-System|
-| 0311  | [基于SSM的图书馆管理系统](https://github.com/nature924/No311library-management-system  ) | https://github.com/nature924/No311library-management-system |
-| 0312  | [基于SSM的体育器材预约系统]( https://github.com/nature924/No312Sports-equipment-reservation-system ) | https://github.com/nature924/No312Sports-equipment-reservation-system |
-| 0313  | [基于SSM的图书馆管理系统](  ) |  |
-| 0314  | [基于SSM的图书馆管理系统](  ) |  |
-| 0315  | [基于SSM的图书馆管理系统](  ) |  |
-| 0316  | [基于SSM的图书馆管理系统](  ) |  |
-| 0317  | [基于SSM的图书馆管理系统](  ) |  |
-| 0318  | [基于SSM的图书馆管理系统](  ) |  |
-| 0319  | [基于SSM的图书馆管理系统](  ) |  |
-| 0320  | [基于SSM的图书馆管理系统](  ) |  |
-| 0321  | [基于SSM的图书馆管理系统](  ) |  |
-| 0322  | [基于SSM的图书馆管理系统](  ) |  |
-| 0323  | [基于SSM的图书馆管理系统](  ) |  |
-| 0324  | [基于SSM的图书馆管理系统](  ) |  |
-| 0325  | [基于SSM的图书馆管理系统](  ) |  |
-| 0326  | [基于SSM的图书馆管理系统](  ) |  |
-| 0327  | [基于SSM的图书馆管理系统](  ) |  |
-| 0328  | [基于SSM的图书馆管理系统](  ) |  |
-| 0329  | [基于SSM的图书馆管理系统](  ) |  |
-| 0330  | [基于SSM的图书馆管理系统](  ) |  |
+| 0311  | [基于SSM的图书馆管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No311library-management-system  ) | https://github.com/nature924/No311library-management-system |
+| 0312  | [基于SSM的体育器材预约系统(源码+数据库+10000字论文)]( https://github.com/nature924/No312Sports-equipment-reservation-system ) | https://github.com/nature924/No312Sports-equipment-reservation-system |
+| 0313  | [基于SSM的CRM人事管理系统](https://github.com/nature924/No313CRM-Personnel-Management-System  ) | https://github.com/nature924/No313CRM-Personnel-Management-System |
+| 0314  | [基于SSM的MOOC teaching platform]( https://github.com/nature924/No314MOOC-teaching-platform ) |  https://github.com/nature924/No314MOOC-teaching-platform|
+| 0315  | [基于SSM的OA办公管理系统]( https://github.com/nature924/No315OA-Office-Management-System ) | https://github.com/nature924/No315OA-Office-Management-System |
+| 0316  | [基于SSM的OA办公系统]( https://github.com/nature924/No316OA-office-system ) |  https://github.com/nature924/No316OA-office-system|
+| 0317  | [基于SSM的仓库管理系统](https://github.com/nature924/No317Warehouse-management-system  ) | https://github.com/nature924/No317Warehouse-management-system |
+| 0318  | [基于SSM的超市管理系统]( https://github.com/nature924/No318Supermarket-Management-System ) | https://github.com/nature924/No318Supermarket-Management-System |
+| 0319  | [基于SSM的车辆维修管理系统]( https://github.com/nature924/No319Vehicle-Maintenance-Management-System ) |  https://github.com/nature924/No319Vehicle-Maintenance-Management-System|
+| 0320  | [基于SSM的宠物销售网站]( https://github.com/nature924/No320Pet-sales-website ) | https://github.com/nature924/No320Pet-sales-website |
+| 0321  | [基于SSM的出租车租赁管理系统]( https://github.com/nature924/No321Taxi-Rental-Management-System ) |https://github.com/nature924/No321Taxi-Rental-Management-System  |
+| 0322  | [基于SSM的电影选票系统]( https://github.com/nature924/No322Movie-Voting-System ) | https://github.com/nature924/No322Movie-Voting-System |
+| 0323  | [基于SSM的电子商务推荐系统]( https://github.com/nature924/No323E-commerce-recommender-systems ) | https://github.com/nature924/No323E-commerce-recommender-systems |
+| 0324  | [基于SSM的房屋租赁管理系统]( https://github.com/nature924/No324Housing-Rental-Management-System ) |https://github.com/nature924/No324Housing-Rental-Management-System  |
+| 0325  | [基于SSM的房屋租赁系统]( https://github.com/nature924/No325House-rental-system ) | https://github.com/nature924/No325House-rental-system |
+| 0326  | [基于SSM的房屋出租租赁管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No326Housing-rental-management-system  ) |  https://github.com/nature924/No326Housing-rental-management-system|
+| 0327  | [基于SSM的精准扶贫管理系统]( https://github.com/nature924/No327Precision-Poverty-Alleviation-Management-System ) | https://github.com/nature924/No327Precision-Poverty-Alleviation-Management-System |
+| 0328  | [基于SSM的高校工作量统计系统(源码+数据库+10000字论文)](https://github.com/nature924/No328University-Workload-Statistics-System  ) | https://github.com/nature924/No328University-Workload-Statistics-System |
+| 0329  | [基于SSM的高校教学管理系统](https://github.com/nature924/No329University-Teaching-Management-System  ) | https://github.com/nature924/No329University-Teaching-Management-System |
+| 0330  | [基于SSM的高校学生就业管理系统]( https://github.com/nature924/No330College-Student-Employment-Management-System ) |  https://github.com/nature924/No330College-Student-Employment-Management-System|
 
 
 
