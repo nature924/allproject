@@ -317,8 +317,8 @@
 | 0308  | [springboot学生宿舍管理系统](https://github.com/nature924/No308Student-Dormitory-Management-System ) |https://github.com/nature924/No308Student-Dormitory-Management-System |
 | 0309  | [springboot学生心理咨询评估系统(源码+数据库+10000字论文)](https://github.com/nature924/No309Student-Psychological-Counseling-and-Evaluation-System ) |https://github.com/nature924/No309Student-Psychological-Counseling-and-Evaluation-System |
 | 0310  | [springboot医院管理系统]( https://github.com/nature924/No310Hospital-Management-System) | https://github.com/nature924/No310Hospital-Management-System|
-| 0311  | [基于SSM的图书馆管理系统](  ) |  |
-| 0312  | [基于SSM的图书馆管理系统](  ) |  |
+| 0311  | [基于SSM的图书馆管理系统](https://github.com/nature924/No311library-management-system  ) | https://github.com/nature924/No311library-management-system |
+| 0312  | [基于SSM的体育器材预约系统]( https://github.com/nature924/No312Sports-equipment-reservation-system ) | https://github.com/nature924/No312Sports-equipment-reservation-system |
 | 0313  | [基于SSM的图书馆管理系统](  ) |  |
 | 0314  | [基于SSM的图书馆管理系统](  ) |  |
 | 0315  | [基于SSM的图书馆管理系统](  ) |  |
