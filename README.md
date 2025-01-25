@@ -165,7 +165,7 @@
 | 0155  | [springboot果蔬作物疾病防治系统(源码+数据库+10000字论文)](https://github.com/nature924/No155Fruit-and-vegetable-crop-disease-prevention-and-control-system) | https://github.com/nature924/No155Fruit-and-vegetable-crop-disease-prevention-and-control-system  |
 | 0156  | [springboot海滨体育馆管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No156Seaside-Sports-Center-Management-System) | https://github.com/nature924/No156Seaside-Sports-Center-Management-System  |
 | 0157  | [springboot航班进出港管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No157Flight-Entry-and-Exit-Management-System) |https://github.com/nature924/No157Flight-Entry-and-Exit-Management-System   |
-| 0158  | [springboot滑雪场管理系统(源码+数据库+10000字论文)](https://github.com/new) |  https://github.com/new |
+| 0158  | [springboot滑雪场管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No158Ski-resort-management-system) |https://github.com/nature924/No158Ski-resort-management-system |
 | 0159  | [springboot画师约稿平台](https://github.com/nature924/No159Artist-Submission-Platform) | https://github.com/nature924/No159Artist-Submission-Platform  |
 | 0160  | [springboot图书管理系统(源码+数据库+10000字论文)](https://github.com/nature924/No160Library-Management-System) | https://github.com/nature924/No160Library-Management-System  |
 | 0161  | [springboot医疗病历交互系统(源码+数据库+10000字论文)](https://github.com/nature924/No161Medical-record-interaction-system) |  https://github.com/nature924/No161Medical-record-interaction-system |
