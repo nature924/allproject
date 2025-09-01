@@ -337,8 +337,26 @@
 | 0328  | [基于SSM的高校工作量统计系统(源码+数据库+10000字论文)](https://github.com/nature924/No328University-Workload-Statistics-System  ) | https://github.com/nature924/No328University-Workload-Statistics-System |
 | 0329  | [基于SSM的高校教学管理系统](https://github.com/nature924/No329University-Teaching-Management-System  ) | https://github.com/nature924/No329University-Teaching-Management-System |
 | 0330  | [基于SSM的高校学生就业管理系统]( https://github.com/nature924/No330College-Student-Employment-Management-System ) |  https://github.com/nature924/No330College-Student-Employment-Management-System|
-
-
+| 0331  | [基于Springboot的MES生产制造执行系统]( https://github.com/nature924/No.331MES-Manufacturing-Execution-System-) |https://github.com/nature924/No.331MES-Manufacturing-Execution-System- |
+| 0332  | [基于SpringBoot框架的OA管理系统]( https://github.com/nature924/No.332OA-Management-System) | https://github.com/nature924/No.332OA-Management-System|
+| 0333  | [安康学院新型冠状病毒肺炎疫情防控专题系统](https://github.com/nature924/No.333Ankang-University-Novel-Coronavirus-Pneumonia-Epidemic-Prevention-and-Control-Special-System ) |https://github.com/nature924/No.333Ankang-University-Novel-Coronavirus-Pneumonia-Epidemic-Prevention-and-Control-Special-System |
+| 0334  | [毕业就业信息管理系统]( https://github.com/nature924/No.334Graduation-and-Employment-Information-Management-System) | https://github.com/nature924/No.334Graduation-and-Employment-Information-Management-System|
+| 0335  | [毕业生实习与就业管理系统](https://github.com/nature924/No.335Graduate-Internship-and-Employment-Management-System ) |https://github.com/nature924/No.335Graduate-Internship-and-Employment-Management-System |
+| 0336  | [餐厅点餐系统]( https://github.com/nature924/No.336Restaurant-ordering-system) |https://github.com/nature924/No.336Restaurant-ordering-system |
+| 0337  | [茶叶商城系统]( https://github.com/nature924/No.338Tea-e-commerce-system) | https://github.com/nature924/No.338Tea-e-commerce-system|
+| 0338  | [茶叶电商系统]( https://github.com/nature924/No.338Tea-e-commerce-system) |https://github.com/nature924/No.338Tea-e-commerce-system |
+| 0339 | [超市管理系统](https://github.com/nature924/No.339Supermarket-management-system ) |https://github.com/nature924/No.339Supermarket-management-system |
+| 0340  | [车辆管理系统](https://github.com/nature924/No.340Vehicle-management-system ) | https://github.com/nature924/No.340Vehicle-management-system|
+| 0341  | [宠物管理系统](https://github.com/nature924/No.341Pet-management-system ) |https://github.com/nature924/No.341Pet-management-system |
+| 0342  | [宠物商城网站](https://github.com/nature924/No.342Pet-Mall-Website) |https://github.com/nature924/No.342Pet-Mall-Website |
+| 0343  | [大学生科创项目在线管理系统](https://github.com/nature924/No.343Online-management-system-for-college-students-scientific-and-technological-innovation-projects) |https://github.com/nature924/No.343Online-management-system-for-college-students-scientific-and-technological-innovation-projects |
+| 0344  | [大学生心理健康咨询预约系统](https://github.com/nature924/No.344University-student-mental-health-consultation-appointment-system) | https://github.com/nature924/No.344University-student-mental-health-consultation-appointment-system|
+| 0345  | [电影订票及评论网站](https://github.com/nature924/No.345Movie-ticket-booking-and-review-website) |https://github.com/nature924/No.345Movie-ticket-booking-and-review-website |
+| 0346  | [电影院购票系统](https://github.com/nature924/No.346Cinema-ticket-purchasing-system) |https://github.com/nature924/No.346Cinema-ticket-purchasing-system |
+| 0347  | [反欺诈平台](https://github.com/nature924/No.347Anti-fraud-platform) |https://github.com/nature924/No.347Anti-fraud-platform |
+| 0348  | [房地产销售管理系统](https://github.com/nature924/No.348Real-estate-sales-management-system) |https://github.com/nature924/No.348Real-estate-sales-management-system |
+| 0349  | [房屋租赁系统](https://github.com/nature924/No.349House-leasing-system/tree/master) |https://github.com/nature924/No.349House-leasing-system/tree/master |
+| 0350  | [付费问答系统](https://github.com/nature924/No.350Paid-Q-A-system) | https://github.com/nature924/No.350Paid-Q-A-system|
 
 
 
