@@ -377,6 +377,26 @@
 | 0368  | [springboot零食电商系统](https://github.com/nature924/No.368Snack-e-commerce-system) | https://github.com/nature924/No.368Snack-e-commerce-system|
 | 0369  | [springboot零食商城系统](https://github.com/nature924/No.369Snack-mall-system) | https://github.com/nature924/No.369Snack-mall-system|
 | 0370  | [springboot流浪动物管理系统](https://github.com/nature924/No.370Stray-animal-management-system) |https://github.com/nature924/No.370Stray-animal-management-system |
+| 0371  | [springboot旅游推荐与预订平台](https://github.com/nature924/No.371Tourism-recommendation-and-booking-platform) | https://github.com/nature924/No.371Tourism-recommendation-and-booking-platform|
+| 0372  | [springboot旅游推荐系统](https://github.com/nature924/No.372Travel-recommendation-system) |https://github.com/nature924/No.372Travel-recommendation-system |
+| 0373  | [springboot旅游网站系统](https://github.com/nature924/No.373Tourism-website-system) |https://github.com/nature924/No.373Tourism-website-system |
+| 0374  | [springboot码头船只货柜管理系统](https://github.com/nature924/No.373Tourism-website-system/tree/master) |https://github.com/nature924/No.373Tourism-website-system/tree/master |
+| 0375  | [springboot美妆购物网站](https://github.com/nature924/No.375Beauty-shopping-website) | https://github.com/nature924/No.375Beauty-shopping-website|
+| 0376  | [springboot萌宠管理系统](https://github.com/nature924/No.376Cute-Pet-Management-System) |https://github.com/nature924/No.376Cute-Pet-Management-System |
+| 0377  | [springboot民宿管理系统](https://github.com/nature924/No.377Homestay-Management-System) |https://github.com/nature924/No.377Homestay-Management-System |
+| 0378  | [springboot民谣网站系统](https://github.com/nature924/No.378Folk-music-website-system) |https://github.com/nature924/No.378Folk-music-website-system |
+| 0379  | [springboot民族婚纱预定系统](https://github.com/nature924/No.379Ethnic-Wedding-Dress-Reservation-System) | https://github.com/nature924/No.379Ethnic-Wedding-Dress-Reservation-System|
+| 0380  | [springboot奶茶商城系统](https://github.com/nature924/No.380Milk-Tea-Mall-System) | https://github.com/nature924/No.380Milk-Tea-Mall-System|
+| 0381  | [springboot农产品销售平台](https://github.com/nature924/No.381Agricultural-product-sales-platform) |https://github.com/nature924/No.381Agricultural-product-sales-platform |
+| 0382  | [springboot农产品销售管理系统](https://github.com/nature924/No.382Agricultural-Product-Sales-Management-System) |https://github.com/nature924/No.382Agricultural-Product-Sales-Management-System |
+| 0383  | [springboot农产品销售系统](https://github.com/nature924/No.383Agricultural-product-sales-system) | https://github.com/nature924/No.383Agricultural-product-sales-system|
+| 0384  | [springboot农产品直卖平台](https://github.com/nature924/No.384Agricultural-product-direct-sales-platform) | https://github.com/nature924/No.384Agricultural-product-direct-sales-platform|
+| 0385  | [springboot企业信息管理系统](https://github.com/nature924/No.385Enterprise-Information-Management-System) |https://github.com/nature924/No.385Enterprise-Information-Management-System |
+| 0386  | [springboot汽车销售系统](https://github.com/nature924/No.386Automotive-Sales-System) |https://github.com/nature924/No.386Automotive-Sales-System |
+| 0387  | [springboot汽车租赁系统](https://github.com/nature924/No.387Car-rental-system) | https://github.com/nature924/No.387Car-rental-system|
+| 0388  | [springboot人才招聘系统](https://github.com/nature924/No.388Talent-Recruitment-System) | https://github.com/nature924/No.388Talent-Recruitment-System|
+| 0389  | [springboot商业辅助决策系统](https://github.com/nature924/No.389Business-Decision-Support-System) | https://github.com/nature924/No.389Business-Decision-Support-System|
+| 0390  | [springboot社区物业管理系统](https://github.com/nature924/No.390Community-Property-Management-System) | https://github.com/nature924/No.390Community-Property-Management-System|
 
 
 
